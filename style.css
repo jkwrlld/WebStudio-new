@@ -1,0 +1,29 @@
+.nav-ul {
+    display: flex;
+    list-style: none;
+    margin-right: 344px;
+}
+
+.header-ul {
+    display: flex;
+    list-style: none;
+}
+
+.qwe {
+    display: flex;
+}
+
+.container {
+    width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.header {
+    padding-top: 24px;
+    padding-bottom: 25px;
+}
+
+.header-a {
+    margin-right: 92px;
+}
