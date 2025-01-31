@@ -27,3 +27,81 @@
 .header-a {
     margin-right: 92px;
 }
+
+.nav-li {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.advantages-ul{
+    display: flex;
+    list-style: none;
+}
+.advantages-li:not(:last-child){
+    margin-right: 30px;
+}
+.hero{
+    padding-top: 200px;
+    padding-bottom: 280px;
+}
+
+.about-us-h2{
+    padding-top: 132px;
+    padding-bottom: 50px;
+}
+.about-us-ul{
+    display: flex;
+    list-style: none;
+    padding-bottom: 174px;
+}
+.about-us-li:not(:last-child){
+    margin-right: 30px;
+}
+.about-us-img{
+    width: 370px;
+    height: 294px;
+}
+.our-team-h2{
+    padding-bottom: 50px;
+}
+.our-team-ul{
+    display: flex;
+list-style: none;
+padding-bottom: 154px;
+}
+.our-team-img{
+    width: 270px;
+    height: 260px;
+}
+.our-team-li:not(:last-child){
+margin-right: 30px;
+}
+.our-team-h4{
+    padding-right: 183px;
+}
+.our-team-p{
+    padding-right: 162px;
+}
+.footer-ul{
+    display: block;
+    list-style: none;
+}
+.footer-address{
+    padding-top: 20px;
+    padding-bottom: 9px;
+}
+
+.footer-contact{
+padding-top: 9px;
+}
+
+.hero-title {
+    text-align: center;
+}
+
+.about-us-h2 {
+    text-align: center;
+}
+
+.our-team-h2{
+    text-align: center;
+}
